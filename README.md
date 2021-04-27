@@ -7,3 +7,10 @@ This API is just for educational purposes.
 * db: rest
 * user: Alonso
 * pass: 1234
+
+
+## Execution Steps
+* Clone or download the repository
+* Execute *npm install*
+* Execute *nmp run start*
+* The API will execute, if it is locally, on port *3300*
